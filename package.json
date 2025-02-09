@@ -38,8 +38,8 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@huaweicloud/huaweicloud-sdk-core": "^3.1.133",
-    "@huaweicloud/huaweicloud-sdk-swr": "^3.1.133"
+    "@huaweicloud/huaweicloud-sdk-core": "^3.1.135",
+    "@huaweicloud/huaweicloud-sdk-swr": "^3.1.135"
   },
   "devDependencies": {
     "@eslint/compat": "^1.2.6",
